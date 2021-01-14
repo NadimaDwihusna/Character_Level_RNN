@@ -1,2 +1,2 @@
-# Character_Level_RNN
+# Intro_to_RNN
 RNN Intro from Udacity
